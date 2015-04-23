@@ -46,7 +46,7 @@ reporting-disabled = false
   write-tracing = false
   raft-tracing = false
   level  = "info"
-  file   = "/opt/influxdb/shared/log.txt"
+  file   = "stdout"
 
 [monitoring]
   enabled = false
